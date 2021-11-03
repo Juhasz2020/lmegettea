@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+.container {
+    border: 2px solid black;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+  }
